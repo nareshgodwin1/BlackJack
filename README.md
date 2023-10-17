@@ -14,8 +14,7 @@ random integer generator
 
 # Description
 
-This game is designed to replicate the popular slide puzzle game where an image that is missing one quadrent is randomized by blocks. 
-The aim of the game is to re-order the image into it's original image layout is as little moves as possible. 
+The world renowned casino game on your computer. Simply play the hand you are dealt and test your luck. 
 
 ## Contributing
 
